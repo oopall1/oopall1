@@ -16,6 +16,18 @@ I specialize in the modern TypeScript ecosystem for both frontend and backend de
 | **Databases** | MySQL, MongoDB, Firestore |
 | **Tools**| Git/GitHub |
 
+### Core Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
 ---
 
 ## ⭐ Featured Projects
@@ -29,6 +41,15 @@ Here are a few projects that best represent my skills and interests. Check them 
 * **Technologies:** React, TypeScript, React Query (TanStack Query), Tailwind CSS, OpenWeatherMap API
 * [Live Demo Link](https://weatherbuddy-spr3.onrender.com/)
 * [Repository Link](https://github.com/oopall1/weatherbuddy)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats-ten-lyart.vercel.app/api?username=oopall1&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats-ten-lyart.vercel.app/api/top-langs?username=oopall1&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
+</p>
 
 ---
 
