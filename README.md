@@ -42,6 +42,14 @@ Here are a few projects that best represent my skills and interests. Check them 
 * [Live Demo Link](https://weatherbuddy-spr3.onrender.com/)
 * [Repository Link](https://github.com/oopall1/weatherbuddy)
 
+### 2. Photobooth
+
+> A complete photobooth application for taking photos and having them displayed as a strip. This project showcases robust state management for handling sequential photo capture workflows.
+
+* **Technologies:** React, TypeScript
+* [Live Demo Link](https://photobooth-jf5j.onrender.com)
+* [Repository Link](https://github.com/oopall1/photobooth)
+
 ---
 
 ## 📈 GitHub Stats
