@@ -44,12 +44,19 @@ Here are a few projects that best represent my skills and interests. Check them 
 
 ### 2. Photobooth
 
-> A complete photobooth application for taking photos and having them displayed as a strip. This project showcases robust state management for handling sequential photo capture workflows.
+> A complete photobooth application for taking photos and having them displayed as a strip. 
 
-* **Technologies:** React, TypeScript
+* **Technologies:** React, TypeScript, `react-webcam`
 * [Live Demo Link](https://photobooth-jf5j.onrender.com)
 * [Repository Link](https://github.com/oopall1/photobooth)
 
+### 3. Happy-Birthday
+
+> An engaging web application that allows users to interact with a digital birthday cake using their camera and microphone.
+
+* **Technologies:** React, TypeScript, TensorFlow.js (MediaPipe Hands), Web Audio API, `react-webcam`
+* [Live Demo Link](https://happy-birthday-uk43.onrender.com)
+* [Repository Link](https://github.com/oopall1/happy-birthday)
 ---
 
 ## 📈 GitHub Stats
