@@ -50,16 +50,8 @@ Here are a few projects that best represent my skills and interests. Check them 
 * [Live Demo Link](https://photobooth-jf5j.onrender.com)
 * [Repository Link](https://github.com/oopall1/photobooth)
 
-### 3. Happy Birthday
-
-> An engaging web application that allows users to interact with a digital birthday cake using their camera and microphone.
-
-* **Technologies:** React, TypeScript, TensorFlow.js (MediaPipe Hands), Web Audio API, `react-webcam`
-* [Live Demo Link](https://happy-birthday-uk43.onrender.com)
-* [Repository Link](https://github.com/oopall1/happy-birthday)
-
-### 4. Poem Weaver
-A sophisticated and elegant web application leveraging the power of generative AI to instantly craft custom, themed poetry. This project demonstrates robust integration with the Google Gemini API, showcasing advanced asynchronous state management (handling streaming/generation delay and loading states), and a commitment to polished user experience through a modern, responsive Dark Mode UI achieved with Tailwind CSS.
+### 3. Poem Weaver
+> A sophisticated and elegant web application leveraging the power of generative AI to instantly craft custom, themed poetry. This project demonstrates robust integration with the Google Gemini API, showcasing advanced asynchronous state management (handling streaming/generation delay and loading states), and a commitment to polished user experience through a modern, responsive Dark Mode UI achieved with Tailwind CSS.
 
 * **Technologies:** React, TypeScript, Google Gemini API (@google/generative-ai), Tailwind CSS, `gemini-2.5-flash model`
 * [Live Demo Link](https://poem-weaver.onrender.com)
